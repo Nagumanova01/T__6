@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591268798 source:h:\taski\2 semestr\1\eee\main.cpp
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<fstream>
+	<string>
+	<locale.h>
+
